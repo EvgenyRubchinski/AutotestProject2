@@ -12,7 +12,7 @@ public class VariablesExample {
         b = 20;
         System.out.println(a); // 10
         System.out.println(b); // 20
-        
+
 
     }
 }
