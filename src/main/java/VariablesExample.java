@@ -13,6 +13,9 @@ public class VariablesExample {
         System.out.println(a); // 10
         System.out.println(b); // 20
 
+        int c = 40;
+        System.out.println(c/=b);
+
 
     }
 }
